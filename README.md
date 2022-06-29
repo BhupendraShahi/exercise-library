@@ -1,3 +1,3 @@
 # mini-project-6
 
-A Hotel Booking web app made using MERN
+A fitness website made for the fitness enthusiasts
