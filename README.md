@@ -1,1 +1,1 @@
-# React Fitness Application
+# React Exercise Library Application
